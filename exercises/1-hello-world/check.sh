@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXPECTED_HASH="02ff5c6dbc6dce350721f84187a4db64a12d3a5b"
+EXPECTED_HASH="5d5d5cb16c2656e68145ba3e25afa840c5d21074"
 PATH_TO_CHECK="./repository"
 
 VERBOSE=false
