@@ -12,6 +12,7 @@ Please, read this articles before:
 - [reset --hard](lessons/reset-hard/README.md)
 - [tag](lessons/tags/README.md)
 - [merge](lessons/merge/README.md)
+- [rebase](lessons/rebase/README.md)
 
 ## Cheatsheet
 
