@@ -10,6 +10,7 @@ Please, read this articles before:
 ## Lessons
 
 - [reset --hard](lessons/reset-hard/README.md)
+- [tag](lessons/tags/README.md)
 
 ## Cheatsheet
 
