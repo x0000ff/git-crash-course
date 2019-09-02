@@ -7,7 +7,10 @@ Please, read this articles before:
 - [`Vim.md`](Vim.md)
 - [`SourceTree.md`](SourceTree.md)
 
+## Lessons
+
 ## Cheatsheet
 
 Here I gathered most useful Git commands:  
 - [Cheatsheet.md](Cheatsheet.md)
+
