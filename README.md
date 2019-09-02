@@ -9,8 +9,9 @@ Please, read this articles before:
 
 ## Lessons
 
+- [reset --hard](lessons/reset-hard/README.md)
+
 ## Cheatsheet
 
 Here I gathered most useful Git commands:  
 - [Cheatsheet.md](Cheatsheet.md)
-
